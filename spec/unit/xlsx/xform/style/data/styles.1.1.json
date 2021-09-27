@@ -88,5 +88,8 @@
     {"numFmtId": 0, "fontId": 2, "fillId": 0, "borderId": 0, "xfId": 0},
     {"numFmtId": 0, "fontId": 2, "fillId": 0, "borderId": 0, "alignment": {"horizontal": "center", "vertical": "middle"}, "xfId": 0},
     {"numFmtId": 0, "fontId": 0, "fillId": 0, "borderId": 0, "alignment": {"shrinkToFit": true}, "xfId": 0}
+  ],
+  "cellStyles": [
+    {"name": "Normal", "xfId": 0, "builtinId": 0}
   ]
 }
